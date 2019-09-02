@@ -1,7 +1,7 @@
 <ImageButton
-            android:id="@+id/Insta" //ID of Button  
-            android:layout_width="wrap_content" //width 
-            android:layout_height="wrap_content"  //height  
-            android:layout_alignParentRight="true"  //additional layout options 
-            android:onClick="Instag"  //onclick to make Image clickable and id
-            android:src="@drawable/ic_inbox_black_24dp" />  src of icon or Image
+            android:id="@+id/ImageButton1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:onClick="Instagram"
+            android:src="@drawable/ic_inbox_black_24dp" />
