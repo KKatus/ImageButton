@@ -1,7 +1,7 @@
-findViewById(R.id.Insta).setOnClickListener(new View.OnClickListener() {
+findViewById(R.id.ImageButton1).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Instag("http://www.instagram.com");
+                Instagram("http://www.instagram.com");
 
             }
         });
