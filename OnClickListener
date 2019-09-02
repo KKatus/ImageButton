@@ -1,0 +1,7 @@
+findViewById(R.id.Insta).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Instag("http://www.instagram.com");
+
+            }
+        });
